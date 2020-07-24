@@ -15,11 +15,16 @@ function unselectAllCounties() {
   draw();
 }
 function draw() {
+  
   var dateControl = document.querySelector('input[type="date"]');
   var startdate = dateControl.value;
-  
+  var scrollpos = window.scrollY;
   document.getElementById('canvas-parent').innerHTML ='';
   document.getElementById('canvas-parent').innerHTML ='<canvas id="chartJSContainer"></canvas>';
+  
+  //let canvas = document.getElementById('chartJSContainer');
+  //const context = canvas.getContext('2d');
+  //context.clearRect(0, 0, canvas.width, canvas.height);
   fetch(
     //"http://localhost:8080/http://dph.illinois.gov/sitefiles/COVIDHistoricalTestResults.json?nocache=1"
     "/resources/covid_data.json"
@@ -321,8 +326,11 @@ function draw() {
       };
 
       var ctx = document.getElementById("chartJSContainer").getContext("2d");
-      new Chart(ctx, options);
+      new Chart(ctx, options); 
+      window.scrollTo(0, scrollpos);    
+    
     });
+
 }
 draw();
 
