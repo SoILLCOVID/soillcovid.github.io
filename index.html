@@ -70,7 +70,113 @@
       </div>
 
       <div class="container">
-        <!-- Example row of columns -->
+
+
+            <div class="row">
+              <div class="col-md-12">
+              <div style="margin-top:5px;margin-bottom:10px;">
+                    <label style="font-weight:bold;float:left;padding-top:5px;margin-right:10px;">Start Date</label>
+                    <input onChange="draw()" id="datecontrol" type="date"></input>
+                </div>
+              </div>  
+            </div>
+          
+
+      
+        <div id="accordion">
+          <div class="card">
+            <div class="card-header" id="headingOne">
+              <h5 class="mb-0">
+                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  Counties
+                </button>
+              </h5>
+            </div>
+        
+            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+              <div class="card-body">
+                
+
+                <div class="row">
+
+               <div class="col-md-12" style="margin-bottom:15px;">
+                    <div id="buttons" style="margin-top:20px">
+                        <button class="btn btn-primary" onClick="selectAllCounties()" style="float:left;">Select All</button>
+                        <button class="btn btn-primary" style="margin-left:5px" onClick="unselectAllCounties()">Unselect All</button>
+        
+                    </div>
+                </div>
+
+                <div id="counties1" class="counties col-md-4">
+                  <input checked onClick="draw()" type="Checkbox" id="Alexander" ><label>Alexander</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Franklin" ><label>Franklin</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Gallatin" ><label>Gallatin</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Hamilton" ><label>Hamilton</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Hardin" ><label>Hardin</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Jackson" ><label>Jackson</label></input><br />
+  
+                </div>
+              <div id="counties2" class="counties col-md-4">
+                  <input checked onClick="draw()" type="Checkbox" id="Jefferson" ><label>Jefferson</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Johnson" ><label>Johnson</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Massac" ><label>Massac</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Union" ><label>Union</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Perry" ><label>Perry</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Pope" ><label>Pope</label></input><br />
+              </div>
+              <div id="counties3" class="counties col-md-4">
+                  <input checked onClick="draw()" type="Checkbox" id="Pulaski" ><label>Pulaski</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Randolph" ><label>Randolph</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Saline" ><label>Saline</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="White" ><label>White</label></input><br />
+                  <input checked onClick="draw()" type="Checkbox" id="Williamson" ><label>Williamson</label></input><br />        
+              </div>
+            </div>
+          
+
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header" id="headingTwo">
+              <h5 class="mb-0">
+                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  Charts
+                </button>
+              </h5>
+            </div>
+            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+              <div class="card-body">
+                <div class="row">
+                  <div id="charts" class="col-md-12">
+                    <input onClick="draw()" type="Checkbox" id="cumDeathDataSet" ><label>Cumulative Deaths</label></input><br />
+                    <input checked onClick="draw()"  type="Checkbox" id="newDeathDataSet" ><label>Deaths Per Day</label></input><br />
+            
+                    <input onClick="draw()"  type="Checkbox" id="cumCaseDataSet" ><label>Cumulative Cases</label></input><br />
+                    <input onClick="draw()"  type="Checkbox" id="dailyCaseDataSet" ><label>Cases Per Day</label></input><br />
+            
+            
+                    <input checked onClick="draw()"  type="Checkbox" id="sevendaydailyCaseDataSet" ><label>7 Day Averaged Cases Per Day</label></input><br />
+            
+                    <!--<input onClick="draw()"  type="Checkbox" id="dailyTestDataSet" ><label>Tests Per Day</label></input><br />-->
+            
+                    <input onClick="draw()"  type="Checkbox" id="dailyTPRDataSet" ><label>Test Positivity Rate Per Day</label></input><br />
+            
+                    <input onClick="draw()"  type="Checkbox" id="sevendaydailyTestDataSet" ><label>7 Day Averaged Tests Per Day</label></input><br />
+            
+                </div>
+
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+<!--
+        
         <div class="row">
           <div class="col-md-12">
             <div id="counties1" class="counties" style="width:15%;float:left;">
@@ -108,7 +214,7 @@
         
                 <input checked onClick="draw()"  type="Checkbox" id="sevendaydailyCaseDataSet" ><label>7 Day Averaged Cases Per Day</label></input><br />
         
-                <!--<input onClick="draw()"  type="Checkbox" id="dailyTestDataSet" ><label>Tests Per Day</label></input><br />-->
+                
         
                 <input onClick="draw()"  type="Checkbox" id="dailyTPRDataSet" ><label>Test Positivity Rate Per Day</label></input><br />
         
@@ -131,10 +237,10 @@
         </div>
         </div>
 
-        <hr>
-
+      -->
+      
       </div> <!-- /container -->
-
+  
     </main>
 
     <footer class="container">
