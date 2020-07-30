@@ -27,7 +27,7 @@ function draw() {
   //context.clearRect(0, 0, canvas.width, canvas.height);
   fetch(
     //"http://localhost:8080/http://dph.illinois.gov/sitefiles/COVIDHistoricalTestResults.json?nocache=1"
-    "/resources/covid_data.json"
+     "https://cors-anywhere.herokuapp.com/http://dph.illinois.gov/sitefiles/COVIDHistoricalTestResults.json?nocache=1"
   )
     .then((response) => {
       return response.json();
