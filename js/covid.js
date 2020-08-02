@@ -69,7 +69,7 @@ function draw() {
       var population = 0;
       for (var i=0; i<elements.length;i++) {
         soillcounties.push(elements[i].id);
-        population += elements[i].getAttribute('data-pop');
+        population += Number(elements[i].getAttribute('data-pop'));
       }
       console.log("population2: " + population);
     
