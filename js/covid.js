@@ -208,7 +208,7 @@ function draw() {
       var dailycaseperthousand = [];
 
       for (var i = 0; i < newCaseData.length; i++) {
-        var dailycpt = (population / 100000) * newCaseData[i];
+        var dailycpt = (newCaseData[i]  / population) * 100000 ;
         
         dailycptfixed = dailycpt.toFixed(2);
         dailycaseperthousand.push(dailycptfixed);
@@ -224,7 +224,7 @@ function draw() {
       var dailydeathsperthousand = [];
 
       for (var i = 0; i < newDeathData.length; i++) {
-        var dailydpt = (population / 100000) * newDeathData[i];
+        var dailydpt = (newDeathData[i] / population) * 100000 ;
         
         dailydptfixed = dailydpt.toFixed(2);
         dailydeathsperthousand.push(dailydptfixed);
