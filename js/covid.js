@@ -71,7 +71,7 @@ function draw() {
         soillcounties.push(elements[i].id);
         population += elements[i].getAttribute('data-pop');
       }
-      console.log("population: " + population);
+      console.log("population2: " + population);
     
     
       /*single County Use */
