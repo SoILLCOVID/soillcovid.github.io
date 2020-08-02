@@ -66,10 +66,12 @@ function draw() {
       ];
 
       var elements = document.querySelectorAll(".counties input:checked");
+      var population = "0";
       for (var i=0; i<elements.length;i++) {
         soillcounties.push(elements[i].id);
+        population += elements[i].getAttribute('data-pop');
       }
-
+      console.log("population: " + population);
     
     
       /*single County Use */
