@@ -96,7 +96,7 @@
           <div class="card">
             <div class="card-header" id="headingOne">
               <h5 class="mb-0">
-                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <button class="btn btn-link" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   Counties
                 </button>
               </h5>
@@ -152,16 +152,25 @@
               </div>
             </div>
           </div>
+        </div>
+
+
+
+
+
+        <div id="accordion-2"  style="margin-top:10px;">
           <div class="card">
-            <div class="card-header" id="headingTwo">
+            <div class="card-header" id="headingOne">
               <h5 class="mb-0">
-                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <button class="btn btn-link collapsed" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   Charts
                 </button>
               </h5>
             </div>
-            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+        
+            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
               <div class="card-body">
+                
                 <div class="row">
                   <div id="charts" class="col-md-12">
                     <input onClick="draw()" type="Checkbox" id="cumDeathDataSet" ><label>Cumulative Deaths</label></input><br />
@@ -184,14 +193,13 @@
             
                 </div>
 
-                </div>
-
+                </div>          
 
               </div>
             </div>
           </div>
-
         </div>
+
 
 <!--
         
