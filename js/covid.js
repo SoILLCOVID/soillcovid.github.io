@@ -203,6 +203,23 @@ function draw() {
         backgroundColor:'orange'
       };
 
+
+
+      var dailycaseperthousand = [];
+
+      for (var i = 0; i < newCaseData.length; i++) {
+        var dailycpt = (poulation / 100000) * newCaseData[i];
+        
+        dailycptfixed = dailycpt.toFixed(2);
+        dailycaseperthousand.push(dailycptfixed);
+      }
+      
+      var dailyCPTDataSet = {
+        label: "Daily Cases per 100,000 population",
+        data: dailycaseperthousand,
+        backgroundColor:'green'
+      };
+
     var sevendaytestdata = [];
     for (var i = 0; i < dailytested.length; i++) {
         if (dailytested[i - 6] != 0) {
@@ -304,7 +321,13 @@ function draw() {
       }
       if (document.getElementById('sevendaydailyTestDataSet').checked) {
         datasets.push(sevendaydailyTestDataSet);
-      }      
+      }    
+      
+      if (document.getElementById('dailyCPTDataSet').checked) {
+        datasets.push(dailyCPTDataSet);
+      }    
+
+      
       
       
       
