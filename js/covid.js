@@ -220,6 +220,22 @@ function draw() {
         backgroundColor:'green'
       };
 
+
+      var dailydeathsperthousand = [];
+
+      for (var i = 0; i < newDeathData.length; i++) {
+        var dailydpt = (population / 100000) * newDeathData[i];
+        
+        dailydptfixed = dailydpt.toFixed(2);
+        dailydeathsperthousand.push(dailydptfixed);
+      }
+      
+      var dailyDPTDataSet = {
+        label: "Daily Deaths per 100,000 population",
+        data: dailydeathsperthousand,
+        backgroundColor:'purple'
+      };      
+
     var sevendaytestdata = [];
     for (var i = 0; i < dailytested.length; i++) {
         if (dailytested[i - 6] != 0) {
@@ -326,7 +342,9 @@ function draw() {
       if (document.getElementById('dailyCPTDataSet').checked) {
         datasets.push(dailyCPTDataSet);
       }    
-
+      if (document.getElementById('dailyDPTDataSet').checked) {
+        datasets.push(dailyDPTDataSet);
+      }   
       
       
       
