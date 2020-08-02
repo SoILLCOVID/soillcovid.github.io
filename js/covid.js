@@ -208,7 +208,7 @@ function draw() {
       var dailycaseperthousand = [];
 
       for (var i = 0; i < newCaseData.length; i++) {
-        var dailycpt = (poulation / 100000) * newCaseData[i];
+        var dailycpt = (population / 100000) * newCaseData[i];
         
         dailycptfixed = dailycpt.toFixed(2);
         dailycaseperthousand.push(dailycptfixed);
