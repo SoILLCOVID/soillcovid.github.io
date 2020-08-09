@@ -34,47 +34,47 @@
   <body>
 
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="/">Southern Illinois COVID Statistics</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="/">Region 5 Charts<span class="sr-only">Region 5 Charts</span></a>
-          </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="/region4.html">Region 4 Charts<span class="sr-only">Region 4 Charts</span></a>
-          </li>          
-          <li class="nav-item">
-            <a class="nav-link" href="/daily.html">Daily Data</a>
-          </li>
-         <!-- <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-            <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>-->
-        </ul>-
-        <!--<form class="form-inline my-2 my-lg-0 offset-md-9">
-          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>-->
-      </div>
-    </nav>
+        <a class="navbar-brand" href="/">Southern Illinois COVID Statistics</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+  
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="/">Region 5 Charts<span class="sr-only">Region 5 Charts</span></a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="/region4.html">Region 4 Charts<span class="sr-only">Region 4 Charts</span></a>
+            </li>          
+            <li class="nav-item">
+              <a class="nav-link" href="/daily.html">Daily Data</a>
+            </li>
+           <!-- <li class="nav-item">
+              <a class="nav-link disabled" href="#">Disabled</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown01">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>-->
+          </ul>-
+          <!--<form class="form-inline my-2 my-lg-0 offset-md-9">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>-->
+        </div>
+      </nav>
 
     <main role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div class="container">
-            <center><h1>Southern Illinois Region 5 COVID Statistics</h1></center>
+            <center><h1>Southern Illinois Region 4 COVID Statistics</h1></center>
             <div id="canvas-parent">
                 <canvas id="chartJSContainer"></canvas>
             </div>
@@ -121,35 +121,15 @@
 
                 <div id="counties1" class="counties col-md-4">
                   <!--<input data-pop="5150000" checked onClick="draw()" type="Checkbox" id="Cook" ><label>Cook</label></input><br />-->
-                  <input data-pop="5761" checked onClick="draw()" type="Checkbox" id="Alexander" ><label>Alexander</label></input><br />
-                  <input data-pop="6392" checked onClick="draw()" type="Checkbox" id="Edwards" ><label>Edwards</label></input><br />
-                  <input data-pop="38701" checked onClick="draw()" type="Checkbox" id="Franklin" ><label>Franklin</label></input><br />
-                  <input data-pop="5058" checked onClick="draw()" type="Checkbox" id="Gallatin" ><label>Gallatin</label></input><br />
-                  <input data-pop="8163" checked onClick="draw()" type="Checkbox" id="Hamilton" ><label>Hamilton</label></input><br />
-                  <input data-pop="3910" checked onClick="draw()" type="Checkbox" id="Hardin" ><label>Hardin</label></input><br />
-                  <input data-pop="56750" checked onClick="draw()" type="Checkbox" id="Jackson" ><label>Jackson</label></input><br />
+                  <input data-pop="16426" checked onClick="draw()" type="Checkbox" id="Bond" ><label>Bond</label></input><br />
+                  <input data-pop="37562" checked onClick="draw()" type="Checkbox" id="Clinton" ><label>Clinton</label></input><br />
+                  <input data-pop="262966" checked onClick="draw()" type="Checkbox" id="Madison" ><label>Madison</label></input><br />
+                  <input data-pop="34637" checked onClick="draw()" type="Checkbox" id="Monroe" ><label>Monroe</label></input><br />
+                  <input data-pop="32106" checked onClick="draw()" type="Checkbox" id="Randolph" ><label>Randolph</label></input><br />
+                  <input data-pop="259686" checked onClick="draw()" type="Checkbox" id="St. Clair" ><label>St. Clair</label></input><br />
+                  <input data-pop="13995" checked onClick="draw()" type="Checkbox" id="Washington" ><label>Washington</label></input><br />
   
                 </div>
-              <div id="counties2" class="counties col-md-4">
-                  <input data-pop="37684" checked onClick="draw()" type="Checkbox" id="Jefferson" ><label>Jefferson</label></input><br />
-                  <input data-pop="12417" checked onClick="draw()" type="Checkbox" id="Johnson" ><label>Johnson</label></input><br />
-                  <input data-pop="37205" checked onClick="draw()" type="Checkbox" id="Marion" ><label>Marion</label></input><br />
-                  <input data-pop="13772" checked onClick="draw()" type="Checkbox" id="Massac" ><label>Massac</label></input><br />
-                  <input data-pop="17765" checked onClick="draw()" type="Checkbox" id="Union" ><label>Union</label></input><br />
-                  <input data-pop="21174" checked onClick="draw()" type="Checkbox" id="Perry" ><label>Perry</label></input><br />
-                  <input data-pop="4212" checked onClick="draw()" type="Checkbox" id="Pope" ><label>Pope</label></input><br />
-                  
-                                   
-              </div>
-              <div id="counties3" class="counties col-md-4">
-                  <input data-pop="5463" checked onClick="draw()" type="Checkbox" id="Pulaski" ><label>Pulaski</label></input><br />  
-                  <!--<input data-pop="32106" checked onClick="draw()" type="Checkbox" id="Randolph" ><label>Randolph</label></input><br /> -->
-                  <input data-pop="23906" checked onClick="draw()" type="Checkbox" id="Saline" ><label>Saline</label></input><br />
-                  <input data-pop="11549" checked onClick="draw()" type="Checkbox" id="Wabash" ><label>Wabash</label></input><br />
-                  <input data-pop="16332" checked onClick="draw()" type="Checkbox" id="Wayne" ><label>Wayne</label></input><br />
-                  <input data-pop="17864" checked onClick="draw()" type="Checkbox" id="White" ><label>White</label></input><br />
-                  <input data-pop="66597" checked onClick="draw()" type="Checkbox" id="Williamson" ><label>Williamson</label></input><br />        
-              </div>
             </div>
           
 
