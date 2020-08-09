@@ -97,12 +97,13 @@ function drawChart() {
                         if (testDate == currentDate) {
                             var countyObject = {};
                             countyObject["Test Date"] = historicalData[i].testDate;
-                            countyObject["Name"] = historicalData[i].values[j].County;
+                            countyObject["County Name"] = historicalData[i].values[j].County;
                             countyObject["Daily Tests"] = historicalData[i].values[j].dailytests;
-                            countyObject["Total Tests"] = historicalData[i].values[j].total_tested;
                             countyObject["Daily Cases"] = historicalData[i].values[j].dailycases;
-                            countyObject["Total Cases"] = historicalData[i].values[j].confirmed_cases;
                             countyObject["Daily Deaths"] = historicalData[i].values[j].dailydeaths;
+                            countyObject["     "] = "     ";
+                            countyObject["Total Tests"] = historicalData[i].values[j].total_tested;
+                            countyObject["Total Cases"] = historicalData[i].values[j].confirmed_cases;
                             countyObject["Total Deaths"] = historicalData[i].values[j].deaths;
                             countyData.push(countyObject);
                         }
@@ -141,8 +142,11 @@ findCountByCountyName = function (name, arr) {
 
 
   function drawTable(countyData) {
-      console.log(countyData)
-      document.getElementById('tableGoesHere').innerHTML = json2table(countyData, 'table table-striped');
+      document.getElementById('tableGoesHere').innerHTML = 'No Data Available for Date';
+      if (countyData.length > 0) {
+        document.getElementById('tableGoesHere').innerHTML = json2table(countyData, 'table table-striped');
+      }
+      
   }
   drawChart();
   
