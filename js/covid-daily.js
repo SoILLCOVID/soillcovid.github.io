@@ -94,10 +94,10 @@ function drawChart() {
                             
                         } else {
                             datetypestartdate = new Date(startdate);
-                            
+                            datetypestartdate = datetypestartdate.addDays(1);
                         }
                         datetypestartdate.setHours(0,0,0,0);
-                        datetypestartdate = datetypestartdate.addDays(1);
+                        //datetypestartdate = datetypestartdate.addDays(1);
                         
                         var testDate = new Date(historicalData[i].testDate).getTime();
                         var currentDate = datetypestartdate.getTime();
