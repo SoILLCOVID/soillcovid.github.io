@@ -2,23 +2,23 @@
   "LastUpdateDate": {
     "year": 2020,
     "month": 8,
-    "day": 28
+    "day": 29
   },
   "characteristics_by_county": {
     "values": [
       {
         "County": "Illinois",
-        "confirmed_cases": 229483,
-        "total_tested": 3924305,
-        "deaths": 7997,
+        "confirmed_cases": 231363,
+        "total_tested": 3973089,
+        "deaths": 8008,
         "lat": 39.839888,
         "lon": -89.510168
       },
       {
         "County": "Adams",
-        "confirmed_cases": 749,
+        "confirmed_cases": 762,
         "deaths": 7,
-        "total_tested": 24446,
+        "total_tested": 24758,
         "lat": 40.057800,
         "lon": -91.135300
       },
@@ -26,39 +26,39 @@
         "County": "Alexander",
         "confirmed_cases": 44,
         "deaths": 0,
-        "total_tested": 1387,
+        "total_tested": 1394,
         "lat": 37.167000,
         "lon": -89.360600
       },
       {
         "County": "Bond",
-        "confirmed_cases": 125,
+        "confirmed_cases": 131,
         "deaths": 3,
-        "total_tested": 4373,
+        "total_tested": 4432,
         "lat": 38.903000,
         "lon": -89.474200
       },
       {
         "County": "Boone",
-        "confirmed_cases": 849,
+        "confirmed_cases": 856,
         "deaths": 23,
-        "total_tested": 11050,
+        "total_tested": 11122,
         "lat": 42.348500,
         "lon": -88.826300
       },
       {
         "County": "Brown",
-        "confirmed_cases": 20,
+        "confirmed_cases": 21,
         "deaths": 0,
-        "total_tested": 1241,
+        "total_tested": 1245,
         "lat": 39.938000,
         "lon": -90.715300
       },
       {
         "County": "Bureau",
-        "confirmed_cases": 353,
+        "confirmed_cases": 357,
         "deaths": 5,
-        "total_tested": 5600,
+        "total_tested": 5736,
         "lat": 41.359900,
         "lon": -89.474200
       },
@@ -66,191 +66,191 @@
         "County": "Calhoun",
         "confirmed_cases": 26,
         "deaths": 0,
-        "total_tested": 819,
+        "total_tested": 823,
         "lat": 39.173300,
         "lon": -90.658300
       },
       {
         "County": "Carroll",
-        "confirmed_cases": 131,
+        "confirmed_cases": 132,
         "deaths": 4,
-        "total_tested": 2476,
+        "total_tested": 2497,
         "lat": 42.038600,
         "lon": -89.962700
       },
       {
         "County": "Cass",
-        "confirmed_cases": 296,
+        "confirmed_cases": 298,
         "deaths": 11,
-        "total_tested": 3878,
+        "total_tested": 3916,
         "lat": 39.939900,
         "lon": -90.262000
       },
       {
         "County": "Champaign",
-        "confirmed_cases": 2310,
+        "confirmed_cases": 2368,
         "deaths": 20,
-        "total_tested": 203217,
+        "total_tested": 210690,
         "lat": 40.213900,
         "lon": -88.246100
       },
       {
         "County": "Chicago",
-        "confirmed_cases": 70331,
-        "deaths": 2868,
-        "total_tested": 891062,
+        "confirmed_cases": 70549,
+        "deaths": 2869,
+        "total_tested": 899329,
         "lat": 41.789896,
         "lon": -87.627734
       },
       {
         "County": "Christian",
-        "confirmed_cases": 216,
+        "confirmed_cases": 230,
         "deaths": 4,
-        "total_tested": 8235,
+        "total_tested": 8445,
         "lat": 39.567200,
         "lon": -89.322700
       },
       {
         "County": "Clark",
-        "confirmed_cases": 115,
+        "confirmed_cases": 116,
         "deaths": 2,
-        "total_tested": 3148,
+        "total_tested": 3222,
         "lat": 39.382400,
         "lon": -87.776300
       },
       {
         "County": "Clay",
-        "confirmed_cases": 72,
+        "confirmed_cases": 74,
         "deaths": 0,
-        "total_tested": 2273,
+        "total_tested": 2302,
         "lat": 38.727900,
         "lon": -88.556500
       },
       {
         "County": "Clinton",
-        "confirmed_cases": 670,
+        "confirmed_cases": 691,
         "deaths": 17,
-        "total_tested": 8949,
+        "total_tested": 9053,
         "lat": 38.568400,
         "lon": -89.625200
       },
       {
         "County": "Coles",
-        "confirmed_cases": 884,
+        "confirmed_cases": 937,
         "deaths": 21,
-        "total_tested": 17813,
+        "total_tested": 17963,
         "lat": 39.556000,
         "lon": -88.246100
       },
       {
         "County": "Cook",
-        "confirmed_cases": 54242,
+        "confirmed_cases": 54575,
         "deaths": 2177,
-        "total_tested": 738721,
+        "total_tested": 745941,
         "lat": 42.050784,
         "lon": -87.963759
       },
       {
         "County": "Crawford",
-        "confirmed_cases": 72,
+        "confirmed_cases": 77,
         "deaths": 0,
-        "total_tested": 2369,
+        "total_tested": 2396,
         "lat": 41.833000,
         "lon": -88.710900
       },
       {
         "County": "Cumberland",
-        "confirmed_cases": 128,
+        "confirmed_cases": 133,
         "deaths": 3,
-        "total_tested": 2930,
+        "total_tested": 2953,
         "lat": 39.265400,
         "lon": -88.207200
       },
       {
         "County": "De Witt",
-        "confirmed_cases": 40,
+        "confirmed_cases": 41,
         "deaths": 1,
-        "total_tested": 2509,
+        "total_tested": 2543,
         "lat": 40.181000,
         "lon": -88.903100
       },
       {
         "County": "DeKalb",
-        "confirmed_cases": 1089,
+        "confirmed_cases": 1092,
         "deaths": 35,
-        "total_tested": 21267,
+        "total_tested": 21558,
         "lat": 41.833000,
         "lon": -88.710900
       },
       {
         "County": "Douglas",
-        "confirmed_cases": 207,
+        "confirmed_cases": 211,
         "deaths": 5,
-        "total_tested": 5932,
+        "total_tested": 5954,
         "lat": 39.761800,
         "lon": -88.207200
       },
       {
         "County": "DuPage",
-        "confirmed_cases": 14299,
+        "confirmed_cases": 14398,
         "deaths": 533,
-        "total_tested": 245416,
+        "total_tested": 248121,
         "lat": 41.824400,
         "lon": -88.090100
       },
       {
         "County": "Edgar",
-        "confirmed_cases": 79,
+        "confirmed_cases": 81,
         "deaths": 0,
-        "total_tested": 2394,
+        "total_tested": 2410,
         "lat": 39.713100,
         "lon": -87.776300
       },
       {
         "County": "Edwards",
-        "confirmed_cases": 36,
+        "confirmed_cases": 38,
         "deaths": 0,
-        "total_tested": 571,
+        "total_tested": 580,
         "lat": 38.426800,
         "lon": -88.051000
       },
       {
         "County": "Effingham",
-        "confirmed_cases": 478,
+        "confirmed_cases": 506,
         "deaths": 1,
-        "total_tested": 8153,
+        "total_tested": 8252,
         "lat": 39.062200,
         "lon": -88.556500
       },
       {
         "County": "Fayette",
-        "confirmed_cases": 153,
+        "confirmed_cases": 163,
         "deaths": 3,
-        "total_tested": 3698,
+        "total_tested": 3730,
         "lat": 39.067000,
         "lon": -89.017900
       },
       {
         "County": "Ford",
-        "confirmed_cases": 70,
+        "confirmed_cases": 71,
         "deaths": 2,
-        "total_tested": 3341,
+        "total_tested": 3353,
         "lat": 40.498900,
         "lon": -88.207200
       },
       {
         "County": "Franklin",
-        "confirmed_cases": 327,
+        "confirmed_cases": 335,
         "deaths": 1,
-        "total_tested": 8115,
+        "total_tested": 8226,
         "lat": 38.015700,
         "lon": -88.903100
       },
       {
         "County": "Fulton",
-        "confirmed_cases": 77,
+        "confirmed_cases": 80,
         "deaths": 0,
-        "total_tested": 6883,
+        "total_tested": 6957,
         "lat": 40.553200,
         "lon": -90.224500
       },
@@ -258,39 +258,39 @@
         "County": "Gallatin",
         "confirmed_cases": 62,
         "deaths": 2,
-        "total_tested": 557,
+        "total_tested": 568,
         "lat": 37.710800,
         "lon": -88.246100
       },
       {
         "County": "Greene",
-        "confirmed_cases": 99,
+        "confirmed_cases": 103,
         "deaths": 1,
-        "total_tested": 2332,
+        "total_tested": 2367,
         "lat": 39.403000,
         "lon": -90.374800
       },
       {
         "County": "Grundy",
-        "confirmed_cases": 468,
+        "confirmed_cases": 471,
         "deaths": 5,
-        "total_tested": 8272,
+        "total_tested": 8349,
         "lat": 41.350100,
         "lon": -88.401600
       },
       {
         "County": "Hamilton",
-        "confirmed_cases": 44,
+        "confirmed_cases": 45,
         "deaths": 0,
-        "total_tested": 1002,
+        "total_tested": 1011,
         "lat": 38.054300,
         "lon": -88.556500
       },
       {
         "County": "Hancock",
-        "confirmed_cases": 126,
+        "confirmed_cases": 132,
         "deaths": 2,
-        "total_tested": 4187,
+        "total_tested": 4420,
         "lat": 40.384900,
         "lon": -91.135300
       },
@@ -298,63 +298,63 @@
         "County": "Hardin",
         "confirmed_cases": 18,
         "deaths": 0,
-        "total_tested": 576,
+        "total_tested": 577,
         "lat": 37.499500,
         "lon": -88.362800
       },
       {
         "County": "Henderson",
-        "confirmed_cases": 41,
+        "confirmed_cases": 44,
         "deaths": 0,
-        "total_tested": 833,
+        "total_tested": 871,
         "lat": 40.833600,
         "lon": -90.943800
       },
       {
         "County": "Henry",
-        "confirmed_cases": 438,
+        "confirmed_cases": 454,
         "deaths": 1,
-        "total_tested": 11846,
+        "total_tested": 12243,
         "lat": 41.361100,
         "lon": -90.074700
       },
       {
         "County": "Iroquois",
-        "confirmed_cases": 291,
+        "confirmed_cases": 294,
         "deaths": 19,
-        "total_tested": 8031,
+        "total_tested": 8081,
         "lat": 40.774000,
         "lon": -87.697600
       },
       {
         "County": "Jackson",
-        "confirmed_cases": 895,
-        "deaths": 20,
-        "total_tested": 13847,
+        "confirmed_cases": 909,
+        "deaths": 21,
+        "total_tested": 13977,
         "lat": 37.721800,
         "lon": -89.322700
       },
       {
         "County": "Jasper",
-        "confirmed_cases": 111,
+        "confirmed_cases": 124,
         "deaths": 7,
-        "total_tested": 1939,
+        "total_tested": 1965,
         "lat": 39.055500,
         "lon": -88.090100
       },
       {
         "County": "Jefferson",
-        "confirmed_cases": 442,
+        "confirmed_cases": 447,
         "deaths": 34,
-        "total_tested": 6785,
+        "total_tested": 6847,
         "lat": 38.226700,
         "lon": -88.864700
       },
       {
         "County": "Jersey",
-        "confirmed_cases": 271,
-        "deaths": 5,
-        "total_tested": 4231,
+        "confirmed_cases": 275,
+        "deaths": 6,
+        "total_tested": 4270,
         "lat": 39.070500,
         "lon": -90.374800
       },
@@ -362,39 +362,39 @@
         "County": "Jo Daviess",
         "confirmed_cases": 173,
         "deaths": 2,
-        "total_tested": 3875,
+        "total_tested": 3899,
         "lat": 42.314900,
         "lon": -90.224500
       },
       {
         "County": "Johnson",
-        "confirmed_cases": 110,
+        "confirmed_cases": 113,
         "deaths": 0,
-        "total_tested": 1901,
+        "total_tested": 1924,
         "lat": 37.420400,
         "lon": -88.903100
       },
       {
         "County": "Kane",
-        "confirmed_cases": 11052,
+        "confirmed_cases": 11099,
         "deaths": 312,
-        "total_tested": 132980,
+        "total_tested": 134255,
         "lat": 41.987900,
         "lon": -88.401600
       },
       {
         "County": "Kankakee",
-        "confirmed_cases": 2149,
+        "confirmed_cases": 2168,
         "deaths": 71,
-        "total_tested": 38290,
+        "total_tested": 38684,
         "lat": 41.179100,
         "lon": -87.776300
       },
       {
         "County": "Kendall",
-        "confirmed_cases": 1633,
+        "confirmed_cases": 1638,
         "deaths": 23,
-        "total_tested": 25926,
+        "total_tested": 26170,
         "lat": 41.550700,
         "lon": -88.440400
       },
@@ -402,135 +402,135 @@
         "County": "Knox",
         "confirmed_cases": 441,
         "deaths": 3,
-        "total_tested": 11665,
+        "total_tested": 11890,
         "lat": 40.877600,
         "lon": -90.224500
       },
       {
         "County": "Lake",
-        "confirmed_cases": 14379,
-        "deaths": 463,
-        "total_tested": 191449,
+        "confirmed_cases": 14455,
+        "deaths": 464,
+        "total_tested": 193339,
         "lat": 42.368900,
         "lon": -87.827200
       },
       {
         "County": "LaSalle",
-        "confirmed_cases": 1203,
+        "confirmed_cases": 1219,
         "deaths": 45,
-        "total_tested": 22318,
+        "total_tested": 22766,
         "lat": 41.436400,
         "lon": -88.941400
       },
       {
         "County": "Lawrence",
-        "confirmed_cases": 96,
+        "confirmed_cases": 111,
         "deaths": 0,
-        "total_tested": 3364,
+        "total_tested": 3440,
         "lat": 38.715800,
         "lon": -87.776300
       },
       {
         "County": "Lee",
-        "confirmed_cases": 231,
+        "confirmed_cases": 238,
         "deaths": 1,
-        "total_tested": 5362,
+        "total_tested": 5465,
         "lat": 41.679000,
         "lon": -89.322700
       },
       {
         "County": "Livingston",
-        "confirmed_cases": 180,
+        "confirmed_cases": 181,
         "deaths": 4,
-        "total_tested": 7219,
+        "total_tested": 7436,
         "lat": 40.868900,
         "lon": -88.556500
       },
       {
         "County": "Logan",
-        "confirmed_cases": 249,
+        "confirmed_cases": 259,
         "deaths": 1,
-        "total_tested": 9971,
+        "total_tested": 10129,
         "lat": 40.061300,
         "lon": -89.322700
       },
       {
         "County": "Macon",
-        "confirmed_cases": 907,
+        "confirmed_cases": 925,
         "deaths": 26,
-        "total_tested": 26243,
+        "total_tested": 26537,
         "lat": 39.894900,
         "lon": -89.017900
       },
       {
         "County": "Macoupin",
-        "confirmed_cases": 340,
+        "confirmed_cases": 345,
         "deaths": 3,
-        "total_tested": 13863,
+        "total_tested": 14074,
         "lat": 39.237500,
         "lon": -89.925300
       },
       {
         "County": "Madison",
-        "confirmed_cases": 3868,
-        "deaths": 95,
-        "total_tested": 55193,
+        "confirmed_cases": 3956,
+        "deaths": 97,
+        "total_tested": 56005,
         "lat": 38.904100,
         "lon": -89.925300
       },
       {
         "County": "Marion",
-        "confirmed_cases": 262,
+        "confirmed_cases": 263,
         "deaths": 0,
-        "total_tested": 7485,
+        "total_tested": 7756,
         "lat": 38.731300,
         "lon": -88.864700
       },
       {
         "County": "Marshall",
-        "confirmed_cases": 44,
+        "confirmed_cases": 46,
         "deaths": 0,
-        "total_tested": 2189,
+        "total_tested": 2223,
         "lat": 40.997300,
         "lon": -89.360600
       },
       {
         "County": "Mason",
-        "confirmed_cases": 77,
+        "confirmed_cases": 81,
         "deaths": 1,
-        "total_tested": 3228,
+        "total_tested": 3266,
         "lat": 40.227100,
         "lon": -89.925300
       },
       {
         "County": "Massac",
-        "confirmed_cases": 64,
+        "confirmed_cases": 65,
         "deaths": 1,
-        "total_tested": 2094,
+        "total_tested": 2114,
         "lat": 37.247800,
         "lon": -88.749400
       },
       {
         "County": "McDonough",
-        "confirmed_cases": 185,
+        "confirmed_cases": 194,
         "deaths": 15,
-        "total_tested": 5135,
+        "total_tested": 5219,
         "lat": 40.388500,
         "lon": -90.677300
       },
       {
         "County": "McHenry",
-        "confirmed_cases": 3774,
-        "deaths": 114,
-        "total_tested": 56752,
+        "confirmed_cases": 3793,
+        "deaths": 115,
+        "total_tested": 57350,
         "lat": 42.304000,
         "lon": -88.401600
       },
       {
         "County": "McLean",
-        "confirmed_cases": 1379,
+        "confirmed_cases": 1474,
         "deaths": 16,
-        "total_tested": 44947,
+        "total_tested": 45649,
         "lat": 40.547800,
         "lon": -88.864700
       },
@@ -538,23 +538,23 @@
         "County": "Menard",
         "confirmed_cases": 68,
         "deaths": 0,
-        "total_tested": 3405,
+        "total_tested": 3430,
         "lat": 40.022100,
         "lon": -89.813000
       },
       {
         "County": "Mercer",
-        "confirmed_cases": 97,
+        "confirmed_cases": 98,
         "deaths": 4,
-        "total_tested": 3152,
+        "total_tested": 3207,
         "lat": 41.198500,
         "lon": -90.677300
       },
       {
         "County": "Monroe",
-        "confirmed_cases": 440,
+        "confirmed_cases": 444,
         "deaths": 14,
-        "total_tested": 5071,
+        "total_tested": 5111,
         "lat": 38.274300,
         "lon": -90.187000
       },
@@ -562,31 +562,31 @@
         "County": "Montgomery",
         "confirmed_cases": 246,
         "deaths": 8,
-        "total_tested": 9200,
+        "total_tested": 9303,
         "lat": 39.236400,
         "lon": -89.474200
       },
       {
         "County": "Morgan",
-        "confirmed_cases": 480,
+        "confirmed_cases": 481,
         "deaths": 18,
-        "total_tested": 10688,
+        "total_tested": 10803,
         "lat": 39.734100,
         "lon": -90.224500
       },
       {
         "County": "Moultrie",
-        "confirmed_cases": 151,
-        "deaths": 0,
-        "total_tested": 3240,
+        "confirmed_cases": 155,
+        "deaths": 1,
+        "total_tested": 3259,
         "lat": 39.602100,
         "lon": -88.595200
       },
       {
         "County": "Ogle",
-        "confirmed_cases": 468,
+        "confirmed_cases": 471,
         "deaths": 5,
-        "total_tested": 10654,
+        "total_tested": 10749,
         "lat": 41.997000,
         "lon": -89.322700
       },
@@ -594,31 +594,31 @@
         "County": "Out Of State",
         "confirmed_cases": 0,
         "deaths": 0,
-        "total_tested": 40555,
+        "total_tested": 40759,
         "lat": 0.000000,
         "lon": 0.000000
       },
       {
         "County": "Peoria",
-        "confirmed_cases": 2301,
+        "confirmed_cases": 2325,
         "deaths": 40,
-        "total_tested": 62448,
+        "total_tested": 63346,
         "lat": 40.715600,
         "lon": -89.775500
       },
       {
         "County": "Perry",
-        "confirmed_cases": 286,
+        "confirmed_cases": 288,
         "deaths": 8,
-        "total_tested": 4772,
+        "total_tested": 4809,
         "lat": 38.061200,
         "lon": -89.322700
       },
       {
         "County": "Piatt",
-        "confirmed_cases": 76,
+        "confirmed_cases": 78,
         "deaths": 0,
-        "total_tested": 5388,
+        "total_tested": 5417,
         "lat": 40.054400,
         "lon": -88.855650
       },
@@ -626,71 +626,71 @@
         "County": "Pike",
         "confirmed_cases": 68,
         "deaths": 0,
-        "total_tested": 2022,
+        "total_tested": 2062,
         "lat": 39.566200,
         "lon": -90.829400
       },
       {
         "County": "Pope",
-        "confirmed_cases": 14,
+        "confirmed_cases": 18,
         "deaths": 1,
-        "total_tested": 416,
+        "total_tested": 430,
         "lat": 37.417100,
         "lon": -88.595200
       },
       {
         "County": "Pulaski",
-        "confirmed_cases": 117,
+        "confirmed_cases": 121,
         "deaths": 1,
-        "total_tested": 1056,
+        "total_tested": 1069,
         "lat": 37.251200,
         "lon": -89.132500
       },
       {
         "County": "Putnam",
-        "confirmed_cases": 16,
+        "confirmed_cases": 17,
         "deaths": 0,
-        "total_tested": 740,
+        "total_tested": 747,
         "lat": 41.238500,
         "lon": -89.284700
       },
       {
         "County": "Randolph",
-        "confirmed_cases": 702,
+        "confirmed_cases": 725,
         "deaths": 7,
-        "total_tested": 8190,
+        "total_tested": 8302,
         "lat": 38.062900,
         "lon": -89.775500
       },
       {
         "County": "Richland",
-        "confirmed_cases": 60,
-        "deaths": 2,
-        "total_tested": 3376,
+        "confirmed_cases": 62,
+        "deaths": 3,
+        "total_tested": 3401,
         "lat": 38.721300,
         "lon": -88.090100
       },
       {
         "County": "Rock Island",
-        "confirmed_cases": 2112,
-        "deaths": 53,
-        "total_tested": 44213,
+        "confirmed_cases": 2164,
+        "deaths": 54,
+        "total_tested": 44857,
         "lat": 41.509500,
         "lon": -90.578700
       },
       {
         "County": "Saline",
-        "confirmed_cases": 161,
+        "confirmed_cases": 163,
         "deaths": 3,
-        "total_tested": 4798,
+        "total_tested": 4837,
         "lat": 37.715000,
         "lon": -88.556500
       },
       {
         "County": "Sangamon",
-        "confirmed_cases": 1724,
+        "confirmed_cases": 1744,
         "deaths": 37,
-        "total_tested": 75713,
+        "total_tested": 76594,
         "lat": 39.733700,
         "lon": -89.625200
       },
@@ -698,7 +698,7 @@
         "County": "Schuyler",
         "confirmed_cases": 19,
         "deaths": 0,
-        "total_tested": 1336,
+        "total_tested": 1356,
         "lat": 40.184500,
         "lon": -90.639400
       },
@@ -706,31 +706,31 @@
         "County": "Scott",
         "confirmed_cases": 45,
         "deaths": 0,
-        "total_tested": 1524,
+        "total_tested": 1538,
         "lat": 39.609500,
         "lon": -90.488000
       },
       {
         "County": "Shelby",
-        "confirmed_cases": 185,
+        "confirmed_cases": 192,
         "deaths": 3,
-        "total_tested": 4803,
+        "total_tested": 4874,
         "lat": 39.398100,
         "lon": -88.864700
       },
       {
         "County": "St. Clair",
-        "confirmed_cases": 5158,
+        "confirmed_cases": 5227,
         "deaths": 170,
-        "total_tested": 59387,
+        "total_tested": 60104,
         "lat": 38.400800,
         "lon": -89.925300
       },
       {
         "County": "Stark",
-        "confirmed_cases": 17,
+        "confirmed_cases": 21,
         "deaths": 0,
-        "total_tested": 1250,
+        "total_tested": 1265,
         "lat": 41.079600,
         "lon": -89.813000
       },
@@ -738,119 +738,119 @@
         "County": "Stephenson",
         "confirmed_cases": 376,
         "deaths": 6,
-        "total_tested": 8588,
+        "total_tested": 8677,
         "lat": 42.314500,
         "lon": -89.625200
       },
       {
         "County": "Tazewell",
-        "confirmed_cases": 1040,
+        "confirmed_cases": 1045,
         "deaths": 9,
-        "total_tested": 41988,
+        "total_tested": 42310,
         "lat": 40.552200,
         "lon": -89.474200
       },
       {
         "County": "Unassigned",
-        "confirmed_cases": 50,
+        "confirmed_cases": 75,
         "deaths": 0,
-        "total_tested": 54073,
+        "total_tested": 54122,
         "lat": 39.839888,
         "lon": -89.510168
       },
       {
         "County": "Union",
-        "confirmed_cases": 414,
+        "confirmed_cases": 422,
         "deaths": 24,
-        "total_tested": 4636,
+        "total_tested": 4685,
         "lat": 37.508700,
         "lon": -89.284700
       },
       {
         "County": "Vermilion",
-        "confirmed_cases": 320,
+        "confirmed_cases": 327,
         "deaths": 3,
-        "total_tested": 18254,
+        "total_tested": 18481,
         "lat": 40.122500,
         "lon": -87.697600
       },
       {
         "County": "Wabash",
-        "confirmed_cases": 101,
+        "confirmed_cases": 105,
         "deaths": 1,
-        "total_tested": 1783,
+        "total_tested": 1835,
         "lat": 38.422600,
         "lon": -87.815700
       },
       {
         "County": "Warren",
-        "confirmed_cases": 247,
+        "confirmed_cases": 250,
         "deaths": 1,
-        "total_tested": 2827,
+        "total_tested": 2853,
         "lat": 40.875900,
         "lon": -90.677300
       },
       {
         "County": "Washington",
-        "confirmed_cases": 109,
+        "confirmed_cases": 111,
         "deaths": 1,
-        "total_tested": 2133,
+        "total_tested": 2158,
         "lat": 38.398900,
         "lon": -89.322700
       },
       {
         "County": "Wayne",
-        "confirmed_cases": 92,
+        "confirmed_cases": 96,
         "deaths": 2,
-        "total_tested": 2398,
+        "total_tested": 2423,
         "lat": 38.390000,
         "lon": -88.401600
       },
       {
         "County": "White",
-        "confirmed_cases": 114,
+        "confirmed_cases": 119,
         "deaths": 0,
-        "total_tested": 1983,
+        "total_tested": 2033,
         "lat": 38.050100,
         "lon": -88.246100
       },
       {
         "County": "Whiteside",
-        "confirmed_cases": 490,
+        "confirmed_cases": 501,
         "deaths": 19,
-        "total_tested": 10459,
+        "total_tested": 10686,
         "lat": 41.760600,
         "lon": -89.850500
       },
       {
         "County": "Will",
-        "confirmed_cases": 11278,
-        "deaths": 358,
-        "total_tested": 160499,
+        "confirmed_cases": 11371,
+        "deaths": 359,
+        "total_tested": 162290,
         "lat": 41.505500,
         "lon": -88.090100
       },
       {
         "County": "Williamson",
-        "confirmed_cases": 812,
+        "confirmed_cases": 860,
         "deaths": 12,
-        "total_tested": 17898,
+        "total_tested": 18173,
         "lat": 37.718300,
         "lon": -88.864700
       },
       {
         "County": "Winnebago",
-        "confirmed_cases": 4175,
+        "confirmed_cases": 4187,
         "deaths": 146,
-        "total_tested": 65470,
+        "total_tested": 65868,
         "lat": 42.312100,
         "lon": -89.170600
       },
       {
         "County": "Woodford",
-        "confirmed_cases": 263,
+        "confirmed_cases": 269,
         "deaths": 3,
-        "total_tested": 8379,
+        "total_tested": 8448,
         "lat": 40.712900,
         "lon": -89.170600
       }
@@ -1889,6 +1889,12 @@
         "total_tested": 3924305,
         "confirmed_cases": 229483,
         "deaths": 7997
+      },
+      {
+        "testDate": "8/29/2020",
+        "total_tested": 3973089,
+        "confirmed_cases": 231363,
+        "deaths": 8008
       }
     ]
   },
@@ -1896,15 +1902,15 @@
     "age": [
       {
         "age_group": "Unknown",
-        "count": 68,
-        "tested": 182058,
+        "count": 71,
+        "tested": 186058,
         "deaths": 0,
         "demographics": {
           "race": [
             {
               "description": "White",
               "count": 5,
-              "tested": 417,
+              "tested": 420,
               "deaths": 0,
               "color": "rgb(31,119,180)"
             },
@@ -1917,8 +1923,8 @@
             },
             {
               "description": "Left Blank",
-              "count": 49,
-              "tested": 181206,
+              "count": 52,
+              "tested": 185203,
               "deaths": 0,
               "color": "rgb(255,127,14)"
             },
@@ -1962,64 +1968,64 @@
       },
       {
         "age_group": "<20",
-        "count": 25211,
-        "tested": 368221,
+        "count": 25573,
+        "tested": 374929,
         "deaths": 6,
         "demographics": {
           "race": [
             {
               "description": "White",
-              "count": 6131,
-              "tested": 114708,
+              "count": 6289,
+              "tested": 117407,
               "deaths": 1,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Black",
-              "count": 2922,
-              "tested": 32659,
+              "count": 2936,
+              "tested": 33172,
               "deaths": 4,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Left Blank",
-              "count": 6418,
-              "tested": 147749,
+              "count": 6560,
+              "tested": 149684,
               "deaths": 0,
               "color": "rgb(255,127,14)"
             },
             {
               "description": "Other",
-              "count": 1066,
-              "tested": 17650,
+              "count": 1080,
+              "tested": 18179,
               "deaths": 0,
               "color": "rgb(148,103,189)"
             },
             {
               "description": "Asian",
-              "count": 366,
-              "tested": 10793,
+              "count": 371,
+              "tested": 11304,
               "deaths": 0,
               "color": "rgb(140,86,75)"
             },
             {
               "description": "Hispanic",
-              "count": 8260,
-              "tested": 43874,
+              "count": 8289,
+              "tested": 44385,
               "deaths": 1,
               "color": "rgb(214,39,40)"
             },
             {
               "description": "NH/PI*",
               "count": 28,
-              "tested": 442,
+              "tested": 446,
               "deaths": 0,
               "color": "rgb(127,127,127)"
             },
             {
               "description": "AI/AN**",
               "count": 20,
-              "tested": 346,
+              "tested": 352,
               "deaths": 0,
               "color": "rgb(31,119,180)"
             }
@@ -2028,64 +2034,64 @@
       },
       {
         "age_group": "20-29",
-        "count": 44617,
-        "tested": 654208,
+        "count": 45102,
+        "tested": 664406,
         "deaths": 33,
         "demographics": {
           "race": [
             {
               "description": "White",
-              "count": 10941,
-              "tested": 177105,
+              "count": 11097,
+              "tested": 180813,
               "deaths": 1,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Black",
-              "count": 6051,
-              "tested": 55625,
+              "count": 6093,
+              "tested": 56265,
               "deaths": 14,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Left Blank",
-              "count": 12039,
-              "tested": 300680,
+              "count": 12270,
+              "tested": 304275,
               "deaths": 0,
               "color": "rgb(255,127,14)"
             },
             {
               "description": "Other",
-              "count": 1643,
-              "tested": 28267,
+              "count": 1653,
+              "tested": 28849,
               "deaths": 0,
               "color": "rgb(148,103,189)"
             },
             {
               "description": "Asian",
-              "count": 894,
-              "tested": 26090,
+              "count": 904,
+              "tested": 27022,
               "deaths": 2,
               "color": "rgb(140,86,75)"
             },
             {
               "description": "Hispanic",
-              "count": 12909,
-              "tested": 64993,
+              "count": 12943,
+              "tested": 65710,
               "deaths": 16,
               "color": "rgb(214,39,40)"
             },
             {
               "description": "NH/PI*",
               "count": 80,
-              "tested": 879,
+              "tested": 887,
               "deaths": 0,
               "color": "rgb(127,127,127)"
             },
             {
               "description": "AI/AN**",
-              "count": 60,
-              "tested": 569,
+              "count": 62,
+              "tested": 585,
               "deaths": 0,
               "color": "rgb(31,119,180)"
             }
@@ -2094,64 +2100,64 @@
       },
       {
         "age_group": "30-39",
-        "count": 37185,
-        "tested": 575711,
+        "count": 37464,
+        "tested": 582114,
         "deaths": 122,
         "demographics": {
           "race": [
             {
               "description": "White",
-              "count": 7588,
-              "tested": 158041,
+              "count": 7673,
+              "tested": 160082,
               "deaths": 9,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Black",
-              "count": 5591,
-              "tested": 51573,
+              "count": 5612,
+              "tested": 52090,
               "deaths": 43,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Left Blank",
-              "count": 9215,
-              "tested": 275813,
+              "count": 9352,
+              "tested": 278692,
               "deaths": 1,
               "color": "rgb(255,127,14)"
             },
             {
               "description": "Other",
-              "count": 1524,
-              "tested": 22201,
+              "count": 1532,
+              "tested": 22456,
               "deaths": 0,
               "color": "rgb(148,103,189)"
             },
             {
               "description": "Asian",
-              "count": 932,
-              "tested": 13854,
+              "count": 935,
+              "tested": 14117,
               "deaths": 4,
               "color": "rgb(140,86,75)"
             },
             {
               "description": "Hispanic",
-              "count": 12207,
-              "tested": 52948,
+              "count": 12232,
+              "tested": 53381,
               "deaths": 65,
               "color": "rgb(214,39,40)"
             },
             {
               "description": "NH/PI*",
               "count": 83,
-              "tested": 782,
+              "tested": 791,
               "deaths": 0,
               "color": "rgb(127,127,127)"
             },
             {
               "description": "AI/AN**",
               "count": 45,
-              "tested": 499,
+              "tested": 505,
               "deaths": 0,
               "color": "rgb(31,119,180)"
             }
@@ -2160,64 +2166,64 @@
       },
       {
         "age_group": "40-49",
-        "count": 37374,
-        "tested": 511186,
+        "count": 37637,
+        "tested": 516417,
         "deaths": 281,
         "demographics": {
           "race": [
             {
               "description": "White",
-              "count": 7517,
-              "tested": 137472,
+              "count": 7601,
+              "tested": 139131,
               "deaths": 29,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Black",
-              "count": 5456,
-              "tested": 49264,
+              "count": 5473,
+              "tested": 49708,
               "deaths": 88,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Left Blank",
-              "count": 8794,
-              "tested": 245600,
+              "count": 8918,
+              "tested": 248024,
               "deaths": 1,
               "color": "rgb(255,127,14)"
             },
             {
               "description": "Other",
-              "count": 1458,
-              "tested": 18224,
+              "count": 1460,
+              "tested": 18411,
               "deaths": 1,
               "color": "rgb(148,103,189)"
             },
             {
               "description": "Asian",
-              "count": 915,
-              "tested": 10383,
+              "count": 917,
+              "tested": 10496,
               "deaths": 8,
               "color": "rgb(140,86,75)"
             },
             {
               "description": "Hispanic",
-              "count": 13111,
-              "tested": 49156,
+              "count": 13145,
+              "tested": 49551,
               "deaths": 152,
               "color": "rgb(214,39,40)"
             },
             {
               "description": "NH/PI*",
               "count": 81,
-              "tested": 658,
+              "tested": 663,
               "deaths": 1,
               "color": "rgb(127,127,127)"
             },
             {
               "description": "AI/AN**",
               "count": 42,
-              "tested": 429,
+              "tested": 433,
               "deaths": 1,
               "color": "rgb(31,119,180)"
             }
@@ -2226,64 +2232,64 @@
       },
       {
         "age_group": "50-59",
-        "count": 35374,
-        "tested": 558664,
-        "deaths": 653,
+        "count": 35583,
+        "tested": 564209,
+        "deaths": 654,
         "demographics": {
           "race": [
             {
               "description": "White",
-              "count": 9571,
-              "tested": 174654,
-              "deaths": 136,
+              "count": 9664,
+              "tested": 176521,
+              "deaths": 137,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Black",
-              "count": 5650,
-              "tested": 56379,
+              "count": 5666,
+              "tested": 56841,
               "deaths": 205,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Left Blank",
-              "count": 8131,
-              "tested": 262089,
+              "count": 8205,
+              "tested": 264710,
               "deaths": 8,
               "color": "rgb(255,127,14)"
             },
             {
               "description": "Other",
-              "count": 1319,
-              "tested": 17036,
+              "count": 1320,
+              "tested": 17197,
               "deaths": 3,
               "color": "rgb(148,103,189)"
             },
             {
               "description": "Asian",
-              "count": 880,
-              "tested": 9184,
+              "count": 884,
+              "tested": 9301,
               "deaths": 24,
               "color": "rgb(140,86,75)"
             },
             {
               "description": "Hispanic",
-              "count": 9678,
-              "tested": 38141,
+              "count": 9699,
+              "tested": 38442,
               "deaths": 274,
               "color": "rgb(214,39,40)"
             },
             {
               "description": "NH/PI*",
               "count": 81,
-              "tested": 699,
+              "tested": 705,
               "deaths": 2,
               "color": "rgb(127,127,127)"
             },
             {
               "description": "AI/AN**",
               "count": 64,
-              "tested": 482,
+              "tested": 492,
               "deaths": 1,
               "color": "rgb(31,119,180)"
             }
@@ -2292,64 +2298,64 @@
       },
       {
         "age_group": "60-69",
-        "count": 24044,
-        "tested": 492368,
-        "deaths": 1425,
+        "count": 24181,
+        "tested": 496979,
+        "deaths": 1428,
         "demographics": {
           "race": [
             {
               "description": "White",
-              "count": 7914,
-              "tested": 174790,
-              "deaths": 464,
+              "count": 7975,
+              "tested": 176434,
+              "deaths": 466,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Black",
-              "count": 4467,
-              "tested": 51878,
+              "count": 4481,
+              "tested": 52231,
               "deaths": 487,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Left Blank",
-              "count": 5106,
-              "tested": 222464,
+              "count": 5152,
+              "tested": 224715,
               "deaths": 15,
               "color": "rgb(255,127,14)"
             },
             {
               "description": "Other",
-              "count": 882,
-              "tested": 13549,
+              "count": 892,
+              "tested": 13662,
               "deaths": 12,
               "color": "rgb(148,103,189)"
             },
             {
               "description": "Asian",
               "count": 744,
-              "tested": 6837,
+              "tested": 6897,
               "deaths": 56,
               "color": "rgb(140,86,75)"
             },
             {
               "description": "Hispanic",
-              "count": 4818,
-              "tested": 22042,
-              "deaths": 385,
+              "count": 4824,
+              "tested": 22227,
+              "deaths": 386,
               "color": "rgb(214,39,40)"
             },
             {
               "description": "NH/PI*",
               "count": 72,
-              "tested": 414,
+              "tested": 416,
               "deaths": 2,
               "color": "rgb(127,127,127)"
             },
             {
               "description": "AI/AN**",
               "count": 41,
-              "tested": 394,
+              "tested": 397,
               "deaths": 4,
               "color": "rgb(31,119,180)"
             }
@@ -2358,64 +2364,64 @@
       },
       {
         "age_group": "70-79",
-        "count": 13228,
-        "tested": 312676,
-        "deaths": 1906,
+        "count": 13327,
+        "tested": 315536,
+        "deaths": 1910,
         "demographics": {
           "race": [
             {
               "description": "White",
-              "count": 5296,
-              "tested": 129863,
-              "deaths": 837,
+              "count": 5349,
+              "tested": 130875,
+              "deaths": 839,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Black",
-              "count": 2782,
-              "tested": 28367,
-              "deaths": 572,
+              "count": 2790,
+              "tested": 28582,
+              "deaths": 573,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Left Blank",
-              "count": 2434,
-              "tested": 132755,
-              "deaths": 24,
+              "count": 2461,
+              "tested": 134164,
+              "deaths": 25,
               "color": "rgb(255,127,14)"
             },
             {
               "description": "Other",
-              "count": 398,
-              "tested": 8012,
+              "count": 399,
+              "tested": 8094,
               "deaths": 14,
               "color": "rgb(148,103,189)"
             },
             {
               "description": "Asian",
-              "count": 394,
-              "tested": 3965,
+              "count": 395,
+              "tested": 4017,
               "deaths": 96,
               "color": "rgb(140,86,75)"
             },
             {
               "description": "Hispanic",
-              "count": 1875,
-              "tested": 9281,
+              "count": 1884,
+              "tested": 9368,
               "deaths": 358,
               "color": "rgb(214,39,40)"
             },
             {
               "description": "NH/PI*",
               "count": 24,
-              "tested": 180,
+              "tested": 181,
               "deaths": 2,
               "color": "rgb(127,127,127)"
             },
             {
               "description": "AI/AN**",
               "count": 25,
-              "tested": 253,
+              "tested": 255,
               "deaths": 3,
               "color": "rgb(31,119,180)"
             }
@@ -2424,64 +2430,64 @@
       },
       {
         "age_group": "80+",
-        "count": 12382,
-        "tested": 269213,
-        "deaths": 3571,
+        "count": 12425,
+        "tested": 272441,
+        "deaths": 3574,
         "demographics": {
           "race": [
             {
               "description": "White",
-              "count": 6357,
-              "tested": 117343,
-              "deaths": 2182,
+              "count": 6375,
+              "tested": 118492,
+              "deaths": 2184,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Black",
-              "count": 1906,
-              "tested": 16082,
+              "count": 1911,
+              "tested": 16191,
               "deaths": 728,
               "color": "rgb(31,119,180)"
             },
             {
               "description": "Left Blank",
-              "count": 2399,
-              "tested": 123658,
-              "deaths": 82,
+              "count": 2417,
+              "tested": 125527,
+              "deaths": 83,
               "color": "rgb(255,127,14)"
             },
             {
               "description": "Other",
               "count": 234,
-              "tested": 4362,
+              "tested": 4398,
               "deaths": 22,
               "color": "rgb(148,103,189)"
             },
             {
               "description": "Asian",
               "count": 394,
-              "tested": 2439,
+              "tested": 2457,
               "deaths": 181,
               "color": "rgb(140,86,75)"
             },
             {
               "description": "Hispanic",
-              "count": 1067,
-              "tested": 5082,
+              "count": 1068,
+              "tested": 5126,
               "deaths": 372,
               "color": "rgb(214,39,40)"
             },
             {
               "description": "NH/PI*",
               "count": 13,
-              "tested": 99,
+              "tested": 100,
               "deaths": 2,
               "color": "rgb(127,127,127)"
             },
             {
               "description": "AI/AN**",
-              "count": 12,
-              "tested": 148,
+              "count": 13,
+              "tested": 150,
               "deaths": 2,
               "color": "rgb(31,119,180)"
             }
@@ -2492,57 +2498,57 @@
     "race": [
       {
         "description": "White",
-        "count": 61320,
-        "tested": 1184393,
-        "deaths": 3659,
+        "count": 62028,
+        "tested": 1200175,
+        "deaths": 3666,
         "color": "rgb(31,119,180)"
       },
       {
         "description": "Black",
-        "count": 34828,
-        "tested": 341960,
-        "deaths": 2141,
+        "count": 34965,
+        "tested": 345213,
+        "deaths": 2142,
         "color": "rgb(255,127,14)"
       },
       {
         "description": "Left Blank",
-        "count": 54585,
-        "tested": 1892014,
-        "deaths": 131,
+        "count": 55387,
+        "tested": 1914994,
+        "deaths": 133,
         "color": "rgb(44,160,44)"
       },
       {
         "description": "Other",
-        "count": 8525,
-        "tested": 129334,
+        "count": 8571,
+        "tested": 131279,
         "deaths": 52,
         "color": "rgb(148,103,189)"
       },
       {
         "description": "Asian",
-        "count": 5519,
-        "tested": 83587,
+        "count": 5544,
+        "tested": 85653,
         "deaths": 371,
         "color": "rgb(140,86,75)"
       },
       {
         "description": "Hispanic",
-        "count": 63935,
-        "tested": 285744,
-        "deaths": 1623,
+        "count": 64094,
+        "tested": 288417,
+        "deaths": 1624,
         "color": "rgb(214,39,40)"
       },
       {
         "description": "NH/PI*",
         "count": 462,
-        "tested": 4153,
+        "tested": 4189,
         "deaths": 9,
         "color": "rgb(127,127,127)"
       },
       {
         "description": "AI/AN**",
-        "count": 309,
-        "tested": 3120,
+        "count": 312,
+        "tested": 3169,
         "deaths": 11,
         "color": "rgb(31,119,180)"
       }
@@ -2550,23 +2556,23 @@
     "gender": [
       {
         "description": "Male",
-        "count": 107307,
-        "tested": 1554650,
-        "deaths": 4309,
+        "count": 108157,
+        "tested": 1573168,
+        "deaths": 4317,
         "color": "rgb(31,119,180)"
       },
       {
         "description": "Female",
-        "count": 117795,
-        "tested": 2037345,
-        "deaths": 3683,
+        "count": 118728,
+        "tested": 2062089,
+        "deaths": 3685,
         "color": "rgb(255,127,14)"
       },
       {
         "description": "Unknown/Left Blank",
-        "count": 4381,
-        "tested": 332310,
-        "deaths": 5,
+        "count": 4478,
+        "tested": 337832,
+        "deaths": 6,
         "color": "rgb(44,160,44)"
       }
     ]
@@ -2678,6 +2684,859 @@
   },
   "historical_county": {
     "values": [
+      {
+        "testDate": "8/29/2020",
+        "values": [
+          {
+            "County": "Illinois",
+            "confirmed_cases": 231363,
+            "total_tested": 3973089,
+            "deaths": 8008,
+            "lat": 39.839888,
+            "lon": -89.510168
+          },
+          {
+            "County": "Adams",
+            "confirmed_cases": 762,
+            "deaths": 7,
+            "total_tested": 24758,
+            "lat": 40.057800,
+            "lon": -91.135300
+          },
+          {
+            "County": "Alexander",
+            "confirmed_cases": 44,
+            "deaths": 0,
+            "total_tested": 1394,
+            "lat": 37.167000,
+            "lon": -89.360600
+          },
+          {
+            "County": "Bond",
+            "confirmed_cases": 131,
+            "deaths": 3,
+            "total_tested": 4432,
+            "lat": 38.903000,
+            "lon": -89.474200
+          },
+          {
+            "County": "Boone",
+            "confirmed_cases": 856,
+            "deaths": 23,
+            "total_tested": 11122,
+            "lat": 42.348500,
+            "lon": -88.826300
+          },
+          {
+            "County": "Brown",
+            "confirmed_cases": 21,
+            "deaths": 0,
+            "total_tested": 1245,
+            "lat": 39.938000,
+            "lon": -90.715300
+          },
+          {
+            "County": "Bureau",
+            "confirmed_cases": 357,
+            "deaths": 5,
+            "total_tested": 5736,
+            "lat": 41.359900,
+            "lon": -89.474200
+          },
+          {
+            "County": "Calhoun",
+            "confirmed_cases": 26,
+            "deaths": 0,
+            "total_tested": 823,
+            "lat": 39.173300,
+            "lon": -90.658300
+          },
+          {
+            "County": "Carroll",
+            "confirmed_cases": 132,
+            "deaths": 4,
+            "total_tested": 2497,
+            "lat": 42.038600,
+            "lon": -89.962700
+          },
+          {
+            "County": "Cass",
+            "confirmed_cases": 298,
+            "deaths": 11,
+            "total_tested": 3916,
+            "lat": 39.939900,
+            "lon": -90.262000
+          },
+          {
+            "County": "Champaign",
+            "confirmed_cases": 2368,
+            "deaths": 20,
+            "total_tested": 210690,
+            "lat": 40.213900,
+            "lon": -88.246100
+          },
+          {
+            "County": "Chicago",
+            "confirmed_cases": 70549,
+            "deaths": 2869,
+            "total_tested": 899329,
+            "lat": 41.789896,
+            "lon": -87.627734
+          },
+          {
+            "County": "Christian",
+            "confirmed_cases": 230,
+            "deaths": 4,
+            "total_tested": 8445,
+            "lat": 39.567200,
+            "lon": -89.322700
+          },
+          {
+            "County": "Clark",
+            "confirmed_cases": 116,
+            "deaths": 2,
+            "total_tested": 3222,
+            "lat": 39.382400,
+            "lon": -87.776300
+          },
+          {
+            "County": "Clay",
+            "confirmed_cases": 74,
+            "deaths": 0,
+            "total_tested": 2302,
+            "lat": 38.727900,
+            "lon": -88.556500
+          },
+          {
+            "County": "Clinton",
+            "confirmed_cases": 691,
+            "deaths": 17,
+            "total_tested": 9053,
+            "lat": 38.568400,
+            "lon": -89.625200
+          },
+          {
+            "County": "Coles",
+            "confirmed_cases": 937,
+            "deaths": 21,
+            "total_tested": 17963,
+            "lat": 39.556000,
+            "lon": -88.246100
+          },
+          {
+            "County": "Cook",
+            "confirmed_cases": 54575,
+            "deaths": 2177,
+            "total_tested": 745941,
+            "lat": 42.050784,
+            "lon": -87.963759
+          },
+          {
+            "County": "Crawford",
+            "confirmed_cases": 77,
+            "deaths": 0,
+            "total_tested": 2396,
+            "lat": 41.833000,
+            "lon": -88.710900
+          },
+          {
+            "County": "Cumberland",
+            "confirmed_cases": 133,
+            "deaths": 3,
+            "total_tested": 2953,
+            "lat": 39.265400,
+            "lon": -88.207200
+          },
+          {
+            "County": "De Witt",
+            "confirmed_cases": 41,
+            "deaths": 1,
+            "total_tested": 2543,
+            "lat": 40.181000,
+            "lon": -88.903100
+          },
+          {
+            "County": "DeKalb",
+            "confirmed_cases": 1092,
+            "deaths": 35,
+            "total_tested": 21558,
+            "lat": 41.833000,
+            "lon": -88.710900
+          },
+          {
+            "County": "Douglas",
+            "confirmed_cases": 211,
+            "deaths": 5,
+            "total_tested": 5954,
+            "lat": 39.761800,
+            "lon": -88.207200
+          },
+          {
+            "County": "DuPage",
+            "confirmed_cases": 14398,
+            "deaths": 533,
+            "total_tested": 248121,
+            "lat": 41.824400,
+            "lon": -88.090100
+          },
+          {
+            "County": "Edgar",
+            "confirmed_cases": 81,
+            "deaths": 0,
+            "total_tested": 2410,
+            "lat": 39.713100,
+            "lon": -87.776300
+          },
+          {
+            "County": "Edwards",
+            "confirmed_cases": 38,
+            "deaths": 0,
+            "total_tested": 580,
+            "lat": 38.426800,
+            "lon": -88.051000
+          },
+          {
+            "County": "Effingham",
+            "confirmed_cases": 506,
+            "deaths": 1,
+            "total_tested": 8252,
+            "lat": 39.062200,
+            "lon": -88.556500
+          },
+          {
+            "County": "Fayette",
+            "confirmed_cases": 163,
+            "deaths": 3,
+            "total_tested": 3730,
+            "lat": 39.067000,
+            "lon": -89.017900
+          },
+          {
+            "County": "Ford",
+            "confirmed_cases": 71,
+            "deaths": 2,
+            "total_tested": 3353,
+            "lat": 40.498900,
+            "lon": -88.207200
+          },
+          {
+            "County": "Franklin",
+            "confirmed_cases": 335,
+            "deaths": 1,
+            "total_tested": 8226,
+            "lat": 38.015700,
+            "lon": -88.903100
+          },
+          {
+            "County": "Fulton",
+            "confirmed_cases": 80,
+            "deaths": 0,
+            "total_tested": 6957,
+            "lat": 40.553200,
+            "lon": -90.224500
+          },
+          {
+            "County": "Gallatin",
+            "confirmed_cases": 62,
+            "deaths": 2,
+            "total_tested": 568,
+            "lat": 37.710800,
+            "lon": -88.246100
+          },
+          {
+            "County": "Greene",
+            "confirmed_cases": 103,
+            "deaths": 1,
+            "total_tested": 2367,
+            "lat": 39.403000,
+            "lon": -90.374800
+          },
+          {
+            "County": "Grundy",
+            "confirmed_cases": 471,
+            "deaths": 5,
+            "total_tested": 8349,
+            "lat": 41.350100,
+            "lon": -88.401600
+          },
+          {
+            "County": "Hamilton",
+            "confirmed_cases": 45,
+            "deaths": 0,
+            "total_tested": 1011,
+            "lat": 38.054300,
+            "lon": -88.556500
+          },
+          {
+            "County": "Hancock",
+            "confirmed_cases": 132,
+            "deaths": 2,
+            "total_tested": 4420,
+            "lat": 40.384900,
+            "lon": -91.135300
+          },
+          {
+            "County": "Hardin",
+            "confirmed_cases": 18,
+            "deaths": 0,
+            "total_tested": 577,
+            "lat": 37.499500,
+            "lon": -88.362800
+          },
+          {
+            "County": "Henderson",
+            "confirmed_cases": 44,
+            "deaths": 0,
+            "total_tested": 871,
+            "lat": 40.833600,
+            "lon": -90.943800
+          },
+          {
+            "County": "Henry",
+            "confirmed_cases": 454,
+            "deaths": 1,
+            "total_tested": 12243,
+            "lat": 41.361100,
+            "lon": -90.074700
+          },
+          {
+            "County": "Iroquois",
+            "confirmed_cases": 294,
+            "deaths": 19,
+            "total_tested": 8081,
+            "lat": 40.774000,
+            "lon": -87.697600
+          },
+          {
+            "County": "Jackson",
+            "confirmed_cases": 909,
+            "deaths": 21,
+            "total_tested": 13977,
+            "lat": 37.721800,
+            "lon": -89.322700
+          },
+          {
+            "County": "Jasper",
+            "confirmed_cases": 124,
+            "deaths": 7,
+            "total_tested": 1965,
+            "lat": 39.055500,
+            "lon": -88.090100
+          },
+          {
+            "County": "Jefferson",
+            "confirmed_cases": 447,
+            "deaths": 34,
+            "total_tested": 6847,
+            "lat": 38.226700,
+            "lon": -88.864700
+          },
+          {
+            "County": "Jersey",
+            "confirmed_cases": 275,
+            "deaths": 6,
+            "total_tested": 4270,
+            "lat": 39.070500,
+            "lon": -90.374800
+          },
+          {
+            "County": "Jo Daviess",
+            "confirmed_cases": 173,
+            "deaths": 2,
+            "total_tested": 3899,
+            "lat": 42.314900,
+            "lon": -90.224500
+          },
+          {
+            "County": "Johnson",
+            "confirmed_cases": 113,
+            "deaths": 0,
+            "total_tested": 1924,
+            "lat": 37.420400,
+            "lon": -88.903100
+          },
+          {
+            "County": "Kane",
+            "confirmed_cases": 11099,
+            "deaths": 312,
+            "total_tested": 134255,
+            "lat": 41.987900,
+            "lon": -88.401600
+          },
+          {
+            "County": "Kankakee",
+            "confirmed_cases": 2168,
+            "deaths": 71,
+            "total_tested": 38684,
+            "lat": 41.179100,
+            "lon": -87.776300
+          },
+          {
+            "County": "Kendall",
+            "confirmed_cases": 1638,
+            "deaths": 23,
+            "total_tested": 26170,
+            "lat": 41.550700,
+            "lon": -88.440400
+          },
+          {
+            "County": "Knox",
+            "confirmed_cases": 441,
+            "deaths": 3,
+            "total_tested": 11890,
+            "lat": 40.877600,
+            "lon": -90.224500
+          },
+          {
+            "County": "Lake",
+            "confirmed_cases": 14455,
+            "deaths": 464,
+            "total_tested": 193339,
+            "lat": 42.368900,
+            "lon": -87.827200
+          },
+          {
+            "County": "LaSalle",
+            "confirmed_cases": 1219,
+            "deaths": 45,
+            "total_tested": 22766,
+            "lat": 41.436400,
+            "lon": -88.941400
+          },
+          {
+            "County": "Lawrence",
+            "confirmed_cases": 111,
+            "deaths": 0,
+            "total_tested": 3440,
+            "lat": 38.715800,
+            "lon": -87.776300
+          },
+          {
+            "County": "Lee",
+            "confirmed_cases": 238,
+            "deaths": 1,
+            "total_tested": 5465,
+            "lat": 41.679000,
+            "lon": -89.322700
+          },
+          {
+            "County": "Livingston",
+            "confirmed_cases": 181,
+            "deaths": 4,
+            "total_tested": 7436,
+            "lat": 40.868900,
+            "lon": -88.556500
+          },
+          {
+            "County": "Logan",
+            "confirmed_cases": 259,
+            "deaths": 1,
+            "total_tested": 10129,
+            "lat": 40.061300,
+            "lon": -89.322700
+          },
+          {
+            "County": "Macon",
+            "confirmed_cases": 925,
+            "deaths": 26,
+            "total_tested": 26537,
+            "lat": 39.894900,
+            "lon": -89.017900
+          },
+          {
+            "County": "Macoupin",
+            "confirmed_cases": 345,
+            "deaths": 3,
+            "total_tested": 14074,
+            "lat": 39.237500,
+            "lon": -89.925300
+          },
+          {
+            "County": "Madison",
+            "confirmed_cases": 3956,
+            "deaths": 97,
+            "total_tested": 56005,
+            "lat": 38.904100,
+            "lon": -89.925300
+          },
+          {
+            "County": "Marion",
+            "confirmed_cases": 263,
+            "deaths": 0,
+            "total_tested": 7756,
+            "lat": 38.731300,
+            "lon": -88.864700
+          },
+          {
+            "County": "Marshall",
+            "confirmed_cases": 46,
+            "deaths": 0,
+            "total_tested": 2223,
+            "lat": 40.997300,
+            "lon": -89.360600
+          },
+          {
+            "County": "Mason",
+            "confirmed_cases": 81,
+            "deaths": 1,
+            "total_tested": 3266,
+            "lat": 40.227100,
+            "lon": -89.925300
+          },
+          {
+            "County": "Massac",
+            "confirmed_cases": 65,
+            "deaths": 1,
+            "total_tested": 2114,
+            "lat": 37.247800,
+            "lon": -88.749400
+          },
+          {
+            "County": "McDonough",
+            "confirmed_cases": 194,
+            "deaths": 15,
+            "total_tested": 5219,
+            "lat": 40.388500,
+            "lon": -90.677300
+          },
+          {
+            "County": "McHenry",
+            "confirmed_cases": 3793,
+            "deaths": 115,
+            "total_tested": 57350,
+            "lat": 42.304000,
+            "lon": -88.401600
+          },
+          {
+            "County": "McLean",
+            "confirmed_cases": 1474,
+            "deaths": 16,
+            "total_tested": 45649,
+            "lat": 40.547800,
+            "lon": -88.864700
+          },
+          {
+            "County": "Menard",
+            "confirmed_cases": 68,
+            "deaths": 0,
+            "total_tested": 3430,
+            "lat": 40.022100,
+            "lon": -89.813000
+          },
+          {
+            "County": "Mercer",
+            "confirmed_cases": 98,
+            "deaths": 4,
+            "total_tested": 3207,
+            "lat": 41.198500,
+            "lon": -90.677300
+          },
+          {
+            "County": "Monroe",
+            "confirmed_cases": 444,
+            "deaths": 14,
+            "total_tested": 5111,
+            "lat": 38.274300,
+            "lon": -90.187000
+          },
+          {
+            "County": "Montgomery",
+            "confirmed_cases": 246,
+            "deaths": 8,
+            "total_tested": 9303,
+            "lat": 39.236400,
+            "lon": -89.474200
+          },
+          {
+            "County": "Morgan",
+            "confirmed_cases": 481,
+            "deaths": 18,
+            "total_tested": 10803,
+            "lat": 39.734100,
+            "lon": -90.224500
+          },
+          {
+            "County": "Moultrie",
+            "confirmed_cases": 155,
+            "deaths": 1,
+            "total_tested": 3259,
+            "lat": 39.602100,
+            "lon": -88.595200
+          },
+          {
+            "County": "Ogle",
+            "confirmed_cases": 471,
+            "deaths": 5,
+            "total_tested": 10749,
+            "lat": 41.997000,
+            "lon": -89.322700
+          },
+          {
+            "County": "Out Of State",
+            "confirmed_cases": 0,
+            "deaths": 0,
+            "total_tested": 40759,
+            "lat": 0.000000,
+            "lon": 0.000000
+          },
+          {
+            "County": "Peoria",
+            "confirmed_cases": 2325,
+            "deaths": 40,
+            "total_tested": 63346,
+            "lat": 40.715600,
+            "lon": -89.775500
+          },
+          {
+            "County": "Perry",
+            "confirmed_cases": 288,
+            "deaths": 8,
+            "total_tested": 4809,
+            "lat": 38.061200,
+            "lon": -89.322700
+          },
+          {
+            "County": "Piatt",
+            "confirmed_cases": 78,
+            "deaths": 0,
+            "total_tested": 5417,
+            "lat": 40.054400,
+            "lon": -88.855650
+          },
+          {
+            "County": "Pike",
+            "confirmed_cases": 68,
+            "deaths": 0,
+            "total_tested": 2062,
+            "lat": 39.566200,
+            "lon": -90.829400
+          },
+          {
+            "County": "Pope",
+            "confirmed_cases": 18,
+            "deaths": 1,
+            "total_tested": 430,
+            "lat": 37.417100,
+            "lon": -88.595200
+          },
+          {
+            "County": "Pulaski",
+            "confirmed_cases": 121,
+            "deaths": 1,
+            "total_tested": 1069,
+            "lat": 37.251200,
+            "lon": -89.132500
+          },
+          {
+            "County": "Putnam",
+            "confirmed_cases": 17,
+            "deaths": 0,
+            "total_tested": 747,
+            "lat": 41.238500,
+            "lon": -89.284700
+          },
+          {
+            "County": "Randolph",
+            "confirmed_cases": 725,
+            "deaths": 7,
+            "total_tested": 8302,
+            "lat": 38.062900,
+            "lon": -89.775500
+          },
+          {
+            "County": "Richland",
+            "confirmed_cases": 62,
+            "deaths": 3,
+            "total_tested": 3401,
+            "lat": 38.721300,
+            "lon": -88.090100
+          },
+          {
+            "County": "Rock Island",
+            "confirmed_cases": 2164,
+            "deaths": 54,
+            "total_tested": 44857,
+            "lat": 41.509500,
+            "lon": -90.578700
+          },
+          {
+            "County": "Saline",
+            "confirmed_cases": 163,
+            "deaths": 3,
+            "total_tested": 4837,
+            "lat": 37.715000,
+            "lon": -88.556500
+          },
+          {
+            "County": "Sangamon",
+            "confirmed_cases": 1744,
+            "deaths": 37,
+            "total_tested": 76594,
+            "lat": 39.733700,
+            "lon": -89.625200
+          },
+          {
+            "County": "Schuyler",
+            "confirmed_cases": 19,
+            "deaths": 0,
+            "total_tested": 1356,
+            "lat": 40.184500,
+            "lon": -90.639400
+          },
+          {
+            "County": "Scott",
+            "confirmed_cases": 45,
+            "deaths": 0,
+            "total_tested": 1538,
+            "lat": 39.609500,
+            "lon": -90.488000
+          },
+          {
+            "County": "Shelby",
+            "confirmed_cases": 192,
+            "deaths": 3,
+            "total_tested": 4874,
+            "lat": 39.398100,
+            "lon": -88.864700
+          },
+          {
+            "County": "St. Clair",
+            "confirmed_cases": 5227,
+            "deaths": 170,
+            "total_tested": 60104,
+            "lat": 38.400800,
+            "lon": -89.925300
+          },
+          {
+            "County": "Stark",
+            "confirmed_cases": 21,
+            "deaths": 0,
+            "total_tested": 1265,
+            "lat": 41.079600,
+            "lon": -89.813000
+          },
+          {
+            "County": "Stephenson",
+            "confirmed_cases": 376,
+            "deaths": 6,
+            "total_tested": 8677,
+            "lat": 42.314500,
+            "lon": -89.625200
+          },
+          {
+            "County": "Tazewell",
+            "confirmed_cases": 1045,
+            "deaths": 9,
+            "total_tested": 42310,
+            "lat": 40.552200,
+            "lon": -89.474200
+          },
+          {
+            "County": "Unassigned",
+            "confirmed_cases": 75,
+            "deaths": 0,
+            "total_tested": 54122,
+            "lat": 39.839888,
+            "lon": -89.510168
+          },
+          {
+            "County": "Union",
+            "confirmed_cases": 422,
+            "deaths": 24,
+            "total_tested": 4685,
+            "lat": 37.508700,
+            "lon": -89.284700
+          },
+          {
+            "County": "Vermilion",
+            "confirmed_cases": 327,
+            "deaths": 3,
+            "total_tested": 18481,
+            "lat": 40.122500,
+            "lon": -87.697600
+          },
+          {
+            "County": "Wabash",
+            "confirmed_cases": 105,
+            "deaths": 1,
+            "total_tested": 1835,
+            "lat": 38.422600,
+            "lon": -87.815700
+          },
+          {
+            "County": "Warren",
+            "confirmed_cases": 250,
+            "deaths": 1,
+            "total_tested": 2853,
+            "lat": 40.875900,
+            "lon": -90.677300
+          },
+          {
+            "County": "Washington",
+            "confirmed_cases": 111,
+            "deaths": 1,
+            "total_tested": 2158,
+            "lat": 38.398900,
+            "lon": -89.322700
+          },
+          {
+            "County": "Wayne",
+            "confirmed_cases": 96,
+            "deaths": 2,
+            "total_tested": 2423,
+            "lat": 38.390000,
+            "lon": -88.401600
+          },
+          {
+            "County": "White",
+            "confirmed_cases": 119,
+            "deaths": 0,
+            "total_tested": 2033,
+            "lat": 38.050100,
+            "lon": -88.246100
+          },
+          {
+            "County": "Whiteside",
+            "confirmed_cases": 501,
+            "deaths": 19,
+            "total_tested": 10686,
+            "lat": 41.760600,
+            "lon": -89.850500
+          },
+          {
+            "County": "Will",
+            "confirmed_cases": 11371,
+            "deaths": 359,
+            "total_tested": 162290,
+            "lat": 41.505500,
+            "lon": -88.090100
+          },
+          {
+            "County": "Williamson",
+            "confirmed_cases": 860,
+            "deaths": 12,
+            "total_tested": 18173,
+            "lat": 37.718300,
+            "lon": -88.864700
+          },
+          {
+            "County": "Winnebago",
+            "confirmed_cases": 4187,
+            "deaths": 146,
+            "total_tested": 65868,
+            "lat": 42.312100,
+            "lon": -89.170600
+          },
+          {
+            "County": "Woodford",
+            "confirmed_cases": 269,
+            "deaths": 3,
+            "total_tested": 8448,
+            "lat": 40.712900,
+            "lon": -89.170600
+          }
+        ]
+      },
       {
         "testDate": "8/28/2020",
         "values": [
