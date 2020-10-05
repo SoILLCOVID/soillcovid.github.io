@@ -291,7 +291,7 @@ function draw() {
     
     var sevendaycasedata = [];
     for (var i = 0; i < newCaseData.length; i++) {
-        if (newCaseData[i - 6] != 0) {
+        
           var sevendaycases =
             (newCaseData[i] +
               (newCaseData[i - 1])  +
@@ -300,9 +300,7 @@ function draw() {
               (newCaseData[i - 4])  +
               (newCaseData[i - 5])  +
               (newCaseData[i - 6]) ) /  7;
-        } else {
-          var sevendaycases = 0;
-        }
+        
         //alert(dailytprdata)
         sevendaycasesfixed = sevendaycases.toFixed(2);
         sevendaycasedata.push(sevendaycasesfixed);
