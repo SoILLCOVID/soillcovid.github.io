@@ -178,7 +178,7 @@ function draw() {
       var dailytpr = [];
 
       for (var i = 0; i < newCaseData.length; i++) {
-        if (dailytested[i - 6] != 0) {
+        
           var dailytprdata =
             ((newCaseData[i] / dailytested[i]) * 100 +
               (newCaseData[i - 1] / dailytested[i - 1]) * 100 +
@@ -188,9 +188,7 @@ function draw() {
               (newCaseData[i - 5] / dailytested[i - 5]) * 100 +
               (newCaseData[i - 6] / dailytested[i - 6]) * 100) /
             7;
-        } else {
-          var dailytprdata = 0;
-        }
+       
         //alert(dailytprdata)
         dailytprfixed = dailytprdata.toFixed(2);
         dailytpr.push(dailytprfixed);
@@ -238,7 +236,7 @@ function draw() {
 
     var sevendaytestdata = [];
     for (var i = 0; i < dailytested.length; i++) {
-        if (dailytested[i - 6] != 0) {
+       
           var sevendaytested =
             (dailytested[i] +
               (dailytested[i - 1])  +
@@ -247,9 +245,7 @@ function draw() {
               (dailytested[i - 4])  +
               (dailytested[i - 5])  +
               (dailytested[i - 6]) ) /  7;
-        } else {
-          var sevendaytested = 0;
-        }
+        
         //alert(dailytprdata)
         sevendaytestedfixed = sevendaytested.toFixed(2);
         sevendaytestdata.push(sevendaytestedfixed);
@@ -264,7 +260,7 @@ function draw() {
     var population = 56000;
     var testedperpopulationData = [];
     for (var i = 0; i < dailytested.length; i++) {
-        if (dailytested[i - 6] != 0) {
+       
           var testedperpopulation = 
            ((((dailytested[i]   +
               dailytested[i - 1]   +
@@ -274,9 +270,7 @@ function draw() {
               dailytested[i - 5]    +
               dailytested[i - 6]) / 7) / population) * 800) ;
           
-        } else {
-          var testedperpopulation = 0;
-        }
+      
         //alert(dailytprdata)
         testedperpopulationfixed = testedperpopulation.toFixed(2);
         testedperpopulationData.push(testedperpopulationfixed);
