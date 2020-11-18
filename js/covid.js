@@ -304,7 +304,34 @@ function draw() {
         label: "# of 7 Day averaged Daily Cases",
         data: sevendaycasedata
       };
+
+
+      var sevendaydeathdata = [];
+      for (var i = 0; i < newDeathData.length; i++) {
+          
+            var sevendaydeaths =
+              (newDeathData[i] +
+                (newDeathData[i - 1])  +
+                (newDeathData[i - 2])  +
+                (newDeathData[i - 3])  +
+                (newDeathData[i - 4])  +
+                (newDeathData[i - 5])  +
+                (newDeathData[i - 6]) ) /  7;
+          
+          //alert(dailytprdata)
+          sevendaydeathsfixed = sevendaydeaths.toFixed(2);
+          sevendaydeathdata.push(sevendaydeathsfixed);
+        }
+      
+        var sevendaydailyDeathsDataSet = {
+          label: "# of 7 Day averaged Daily Deaths",
+          data: sevendaydeathdata
+        };      
       var datasets = [];
+
+      if (document.getElementById('sevendaydailyDeathDataSet').checked) {
+        datasets.push(sevendaydailyDeathsDataSet);
+      }
 
       if (document.getElementById('cumDeathDataSet').checked) {
         datasets.push(cumDeathDataSet);
