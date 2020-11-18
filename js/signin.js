@@ -27,3 +27,10 @@ if (localStorage.getItem('name') != null) {
     $('.signin-bar').show();
     $('#welcome-msg').text('Welcome ' + localStorage.getItem('name'));
 }
+
+$('#signin-btn').on("keypress", function(e) {
+    if (e.keyCode == 13) {
+        signin();
+        return false; // prevent the button click from happening
+    }
+});
