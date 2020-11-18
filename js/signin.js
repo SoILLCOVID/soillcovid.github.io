@@ -28,7 +28,7 @@ if (localStorage.getItem('name') != null) {
     $('#welcome-msg').text('Welcome ' + localStorage.getItem('name'));
 }
 
-$('#signin-btn').on("keypress", function(e) {
+$('#inputPassword').on("keypress", function(e) {
     if (e.keyCode == 13) {
         signin();
         return false; // prevent the button click from happening
