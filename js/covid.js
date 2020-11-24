@@ -179,15 +179,10 @@ function draw() {
 
       for (var i = 0; i < newCaseData.length; i++) {
         
-          var dailytprdata =
-            ((newCaseData[i] / dailytested[i]) * 100 +
-              (newCaseData[i - 1] / dailytested[i - 1]) * 100 +
-              (newCaseData[i - 2] / dailytested[i - 2]) * 100 +
-              (newCaseData[i - 3] / dailytested[i - 3]) * 100 +
-              (newCaseData[i - 4] / dailytested[i - 4]) * 100 +
-              (newCaseData[i - 5] / dailytested[i - 5]) * 100 +
-              (newCaseData[i - 6] / dailytested[i - 6]) * 100) /
-            7;
+
+        var last7daysofcases = newCaseData[i] + newCaseData[i-1] + newCaseData[i - 2] + newCaseData[i - 3] + newCaseData[i - 4] + newCaseData[i - 5] + newCaseData[i - 6];
+        var last7daysoftests = dailytested[i] + dailytested[i-1] + dailytested[i - 2] + dailytested[i - 3] + dailytested[i - 4] + dailytested[i - 5] + dailytested[i - 6];
+        var dailytprdata = ((last7daysofcases/7) / (last7daysoftests/7)) * 100            
        
         //alert(dailytprdata)
         dailytprfixed = dailytprdata.toFixed(2);
