@@ -140,7 +140,7 @@ function draw() {
 		} else {
 			var dataDateTime = new Date(historicalData[i].testDate).getTime()
 		}
-        if ( > datetypestartdate.getTime()) {
+        if (dataDateTime > datetypestartdate.getTime()) {
           newDeathData.push(totalSOILLCountForDate);
           cumDeathDataArr.push(cumdeathdata);
           newCaseData.push(caseCount);
