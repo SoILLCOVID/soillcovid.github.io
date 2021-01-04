@@ -133,7 +133,14 @@ function draw() {
         } else {
           datetypestartdate = new Date(startdate);
         }
-        if (new Date(historicalData[i].testDate).getTime() > datetypestartdate.getTime()) {
+		if (i > 289) {
+			var dataDate = new Date(historicalData[i].testDate);
+			dataDate.setFullYear(dataDate.getFullYear() + 1);
+			vardataDateTime = dataDate.getTime()
+		} else {
+			var dataDateTime = new Date(historicalData[i].testDate).getTime()
+		}
+        if ( > datetypestartdate.getTime()) {
           newDeathData.push(totalSOILLCountForDate);
           cumDeathDataArr.push(cumdeathdata);
           newCaseData.push(caseCount);
